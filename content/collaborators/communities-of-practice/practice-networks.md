@@ -4,7 +4,7 @@ aliases:
 - communities of practice
 ---
 
-# practice networks
+# practice networks testing
 prisma is a distributed incubator for communities of [practice](/glossary/Practice.md) and on-the-ground [hubs](/collaborators/communities-of-place/hub/hubs.md) to self-organise [action-learning journeys](/patterns/action-learning%20journeys.md).
 
 we're working closely with [Regenesis](/collaborators/communities-of-practice/Regenesis.md) [^1], who are evolving a practice of regenerative development and design. 
